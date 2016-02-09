@@ -325,85 +325,85 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
+.android {
+  	width: 95%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
-  	width: 55%;
+.ui-design {
+  	width: 85%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
-  	width: 50%;
+.mongo {
+  	width: 75%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.css {
-  	width: 90%;
+.sql {
+  	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
-  	width: 80%;
+.couchbase {
+  	width: 70%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
+.google-adwords {
+  	width: 65%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes android {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 95%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes ui-design {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 85%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes mongo {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
-@-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-moz-keyframes html5 {
+@-moz-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes couchbase {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes google-adwords {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes android {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 95%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes ui-design {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 85%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes mongo {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
-@-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-webkit-keyframes html5 {
+@-webkit-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes couchbase {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes google-adwords {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
 }
 
 /* ------------------------------------------------------------------ */
